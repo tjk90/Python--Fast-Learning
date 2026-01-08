@@ -19,3 +19,25 @@ What’s happening here:
 * height stores a decimal number (float)
 * is_student stores a True/False value (boolean)
 
+#
+
+# Operators
+```sh
+# Arithmetic operators
+a = 10
+b = 3
+
+print(a + b)   # Addition
+print(a - b)   # Subtraction
+print(a * b)   # Multiplication
+print(a / b)   # Division
+```
+Output:
+```sh
+13
+7
+30
+3.3333333333333335
+```
+
+
