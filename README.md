@@ -73,7 +73,15 @@ Output:
 ```sh
 John
 ```
+String with an operator:
+```sh
+first = "Hello"
+second = "World"
+
+print(first + " " + second)
+```
 
 * Strings are text inside quotes " "
 * using + joins strings together
+
 
