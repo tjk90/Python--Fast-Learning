@@ -1,4 +1,4 @@
-# Easy Python learning #
+# Easy Python learning by Tairone.k #
 # 1. Variables
 ```sh
 # Assigning values to variables
