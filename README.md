@@ -40,4 +40,28 @@ Output:
 3.3333333333333335
 ```
 
+# Other common operators (quick examples)
+Comparison operators
+
+```sh
+print(a > b)    # True
+print(a == b)   # False
+print(a != b)   # True
+```
+# Assignment operator
+```sh
+a += 5   # same as: a = a + 5
+print(a)
+```
+# Logical operators
+```sh
+x = True
+y = False
+
+print(x and y)  # False
+print(x or y)   # True
+print(not x)    # False
+```
+Operators are what let Python do things with variables—math, comparisons, and logic.
+
 
