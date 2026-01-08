@@ -1,5 +1,5 @@
 # Easy Python learning #
-# Variables
+# 1. Variables
 ```sh
 # Assigning values to variables
 name = "Alice"      # a string
@@ -21,7 +21,7 @@ What’s happening here:
 
 #
 
-# Operators
+# 2. Operators
 ```sh
 # Arithmetic operators
 a = 10
