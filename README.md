@@ -47,12 +47,12 @@ print(a > b)    # True
 print(a == b)   # False
 print(a != b)   # True
 ```
-# Assignment operator
+**Assignment operator**
 ```sh
 a += 5   # same as: a = a + 5
 print(a)
 ```
-# Logical operators
+ **Logical operators**
 ```sh
 x = True
 y = False
