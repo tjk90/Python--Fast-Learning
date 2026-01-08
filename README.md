@@ -75,5 +75,5 @@ John
 ```
 
 * Strings are text inside quotes " "
-* + joins strings together
+* using + joins strings together
 
