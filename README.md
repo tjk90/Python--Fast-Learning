@@ -89,4 +89,33 @@ Hello World
 * Strings are text inside quotes " "
 * using + joins strings together
 
+#
+# 4. Lists
+```sh
+fruits = ["apple", "banana", "orange"]
 
+print(fruits)
+```
+Get one item from the list:
+```sh
+print(fruits[0])
+
+```
+Add an item:
+```sh
+fruits.append("grape")
+print(fruits)
+
+```
+Remove an item:
+```sh
+fruits = ["apple", "banana", "orange"]
+
+fruits.remove("banana")
+
+print(fruits)
+```
+
+A list holds multiple values
+* Items are inside [ ]
+* Lists start counting from 0
