@@ -1,5 +1,5 @@
 # Easy Python learning #
-Variables
+# Variables
 ```sh
 # Assigning values to variables
 name = "Alice"      # a string
