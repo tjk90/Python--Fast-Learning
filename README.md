@@ -119,3 +119,27 @@ print(fruits)
 A list holds multiple values
 * Items are inside [ ]
 * Lists start counting from 0
+
+#
+# 5. Tuples
+```sh
+colors = ("red", "green", "blue")
+
+print(colors)
+
+```
+Get an item:
+```sh
+print(colors[0])
+
+```
+Important thing to know:
+```sh
+# Tuples cannot be changed
+# colors[0] = "yellow"  ❌ this will cause an error
+
+```
+Simple summary:
+* A tuple uses ( )
+* It holds multiple values
+* You cannot change it after creation
