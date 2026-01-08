@@ -14,7 +14,7 @@ print(height)
 print(is_student)
 ```
 What’s happening here:
-name stores text (a string)
+* name stores text (a string)
 age stores a whole number (int)
 height stores a decimal number (float)
 is_student stores a True/False value (boolean)
