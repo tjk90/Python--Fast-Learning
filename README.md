@@ -2,8 +2,13 @@
 # int           45
 # float         2.5
 # strings      "Hello world"
-# Tuple
-# Dictionary
+# Tuple        my_tuple = (10, 20, 30)
+
+# Dictionary   car = {
+  "brand": "Ford",
+  "model": "Mustang",
+  "year": 1964
+}
 
 
 ## CONCATENATE
