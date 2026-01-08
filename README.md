@@ -39,8 +39,7 @@ Output:
 30
 3.3333333333333335
 ```
-
-# Other common operators (quick examples)
+ Other common operators (quick examples)
 Comparison operators
 
 ```sh
