@@ -63,6 +63,7 @@ print(not x)    # False
 ```
 Operators are what let Python do things with variables—math, comparisons, and logic.
 
+#
 # 3. Strings
 ```sh
 name = "John"
