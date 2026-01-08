@@ -80,6 +80,10 @@ second = "World"
 
 print(first + " " + second)
 ```
+Output:
+```sh
+Hello World
+```
 
 * Strings are text inside quotes " "
 * using + joins strings together
