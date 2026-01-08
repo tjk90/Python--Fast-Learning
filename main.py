@@ -60,7 +60,7 @@ print(val[2])
 ##  command: val[2] = "Pedro"
 ## lets try to print with:
 ## print(val[2])
-## error: Tuples don't support item assignment!!!
+## Output:   error: Tuples don't support item assignment!!!
 
 ##____________DICTIONARY____________##
 
@@ -70,6 +70,7 @@ x = {21:"first name", 22:"last name", "age":33}
 ## CHANGE VALUE in Dictionary
 x[21] = "tai"
 print(x[21])
+## Output: tai
 
 ## you can also mix match like:
 y = {"Rahul":25, "Tony":26, "John":"Timmy"}
